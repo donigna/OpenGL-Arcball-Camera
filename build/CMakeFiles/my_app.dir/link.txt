@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/my_app.dir/src/main.cpp.o CMakeFiles/my_app.dir/src/glad.c.o -o my_app  -lglfw -lSOIL -lGL -lm -ldl 
